@@ -1,0 +1,22 @@
+{
+  "name": "easyrtc",
+  "main": "api/easyrtc.js",
+  "version": "1.0.9",
+  "homepage": "https://github.com/freemarmoset/easyrtc",
+  "authors": [
+    "Priologic Software Inc. <info@priologic.com> (http://priologic.com/)"
+  ],
+  "description": "EasyRTC enables quick development of webRTC",
+  "keywords": [
+    "WebRTC"
+  ],
+  "license": "BSD2",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
